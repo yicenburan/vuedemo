@@ -1,5 +1,8 @@
 # vuedemo
 a simple vue-cli demo about manage
+vue-cli入门小demo，包含两个模块：首页以及管理页
+管理页只有简单的增删改功能
+下载后需安装依赖（npm install）再运行（npm run dev）
 ## Build Setup
 
 ``` bash
