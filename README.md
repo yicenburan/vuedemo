@@ -1,5 +1,5 @@
 # vuedemo
-a simple vue-cli demo
+a simple vue-cli demo about manage
 ## Build Setup
 
 ``` bash
